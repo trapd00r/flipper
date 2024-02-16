@@ -1,0 +1,12 @@
+REM The script starts here
+DELAY 500
+REM Press and hold CTRL, press F, then release both
+CTRL F
+DELAY 100
+REM Press and hold SHIFT, press 1, then release both to produce !
+SHIFT 1
+DELAY 100
+REM Insert the string urxvt and press Enter
+STRING urxvt
+ENTER
+REM The script ends here
